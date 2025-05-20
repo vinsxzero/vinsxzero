@@ -13,7 +13,7 @@ Sou **Cristão**, amo a Deus e a Sua Palavra 🙏.
 
 🎻 A música tem um lugar especial no meu coração — meu instrumento favorito é o **violino**, mas sou fã de todos os instrumentos de corda.
 
-🕹️ Nas horas vagas, me divirto jogando videogames, especialmente os títulos da minha desenvolvedora favorita: **Capcom**!
+🕹️ Amo videogames e pesquiso muito a área de desenvolvimento de games.
 
 ---
 
