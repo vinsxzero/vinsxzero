@@ -17,13 +17,6 @@ Sou **Cristão**, amo a Deus e a Sua Palavra 🙏.
 
 ---
 
-## 💻 O que você vai encontrar aqui
-
-Este perfil é o reflexo da minha jornada como desenvolvedor.  
-Compartilho aqui os meus projetos, estudos e aprendizados com o objetivo de crescer e também **ajudar outros** a crescerem comigo.  
-Se algum dos meus repositórios for útil para você, já valeu a pena! 🚀
-
----
 
 ## 🚧 Em construção...
 
