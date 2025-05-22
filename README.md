@@ -1,9 +1,5 @@
 <h1 align="center">Olá! Meu nome é Vinicius, mas pode me chamar de Vini! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Estudante+de+Engenharia;Apaixonado+por+tecnologia;Cristão+e+amante+da+Palavra;Violinista+de+alma;Fã+da+Capcom+e+games" />
-</p>
-
 ---
 
 ## ✨ Sobre mim
