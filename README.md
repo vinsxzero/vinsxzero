@@ -7,6 +7,8 @@
 Iniciante em programação buscando conhecimento na área de arquitetura de software.
 Atualmente estou na minha primeira graduação em engenharia de software, além de desenvolver minhas habilidades de lógica de programação na linguagem Java, também estudo sobre desenvolvimento baseado em componentes e design de games. Além de programador, também sou escritor de ficção amador e músico.
 No meu perfil você vai acompanhar um pouco mais do meu desenvolvimento pessoal em programação e arquitetura de software, fiquem à vontade para me mandarem desafios e trazerem informações importantes para o desenvolvimento de todos na área.
+
+
 ![image](https://github.com/user-attachments/assets/513da9fc-e269-4379-8a83-6e2f5fc6c14b)
 
 
