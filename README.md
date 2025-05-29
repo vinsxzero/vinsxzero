@@ -1,33 +1,21 @@
-<h1 align="center">Olá! Meu nome é Vinicius, mas pode me chamar de Vini! 👋</h1>
+<h1 align="center">Olá! pode me chamar de Vini!</h1>
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 
-Sou estudante de **Engenharia** e **apaixonado por tecnologia** e tudo que ela pode entregar!  
-Sou **Cristão**, amo a Deus e a Sua Palavra 🙏.
+Iniciante em programação buscando conhecimento na área de arquitetura de software.
+Atualmente estou na minha primeira graduação em engenharia de software, além de desenvolver minhas habilidades de lógica de programação na linguagem Java, também estudo sobre desenvolvimento baseado em componentes e design de games. Além de programador, também sou escritor de ficção amador e músico.
+No meu perfil você vai acompanhar um pouco mais do meu desenvolvimento pessoal em programação e arquitetura de software, fiquem à vontade para me mandarem desafios e trazerem informações importantes para o desenvolvimento de todos na área.
+![image](https://github.com/user-attachments/assets/513da9fc-e269-4379-8a83-6e2f5fc6c14b)
 
-🎻 A música tem um lugar especial no meu coração — meu instrumento favorito é o **violino**, mas sou fã de todos os instrumentos de corda.
-
-🕹️ Amo videogames e pesquiso muito a área de desenvolvimento de games.
 
 ---
 
 
-## 🚧 Em construção...
-
-Atualmente, estou me aprofundando em:
-
-- 🌱 **Java** e conceitos de programação orientada a objetos  
-- 🏗️ **Arquitetura de Software** e boas práticas de desenvolvimento  
-- 🔄 Projetos que unem teoria + prática
-
----
-
-## 📫 Vamos nos conectar!
+## Conexões
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vini-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/vinicius-ferreira-301432257/)  
-Se quiser trocar uma ideia, fique à vontade para me chamar! 😄
 
 ---
 
